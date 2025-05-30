@@ -1,0 +1,18 @@
+def main():
+    x = 5
+    y = 10
+    resultado = x + y
+    
+    print(f"La suma es: {resultado}")
+    
+    # Lista de números
+    numeros = [1, 2, 3, 4, 5]
+    total = sum(numeros)
+    
+    print(f"La suma de la lista es: {total}")
+    
+    for numero in numeros:
+        print(f"Número: {numero}")
+
+if __name__ == "__main__":
+    main()

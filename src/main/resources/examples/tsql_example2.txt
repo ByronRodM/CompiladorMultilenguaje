@@ -1,0 +1,2 @@
+INSERT INTO Alumno (codigo, nombre) VALUES (1, 'Jefferson')
+GO

@@ -1,0 +1,8 @@
+CREATE DATABASE BaseDeDatos
+GO
+CREATE TABLE Alumno
+(
+   codigo INT,
+   nombre NVARCHAR(20)
+)
+GO

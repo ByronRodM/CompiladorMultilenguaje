@@ -1,0 +1,7 @@
+PROGRAM HolaMundo;
+BEGIN
+  WriteLn('¡Hola, mundo!');
+  { Como la siguiente instrucción no es ejecutable, no se  
+    requiere la instrucción "END.", aunque puede ponerse 
+    según las preferencias del programador. }
+END.

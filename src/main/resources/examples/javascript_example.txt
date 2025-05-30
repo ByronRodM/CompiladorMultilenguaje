@@ -1,0 +1,17 @@
+function calcularSuma(a, b) {
+    return a + b;
+}
+
+let x = 5;
+let y = 10;
+let resultado = calcularSuma(x, y);
+
+console.log("La suma es: " + resultado);
+
+const PI = 3.14159;
+function calcularArea(radio) {
+    return PI * radio * radio;
+}
+
+let area = calcularArea(5);
+console.log("El área del círculo es: " + area); 
