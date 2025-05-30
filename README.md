@@ -25,8 +25,6 @@
 - [🔍 Ejemplos de Uso](#-ejemplos-de-uso)
 - [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 - [🎨 Interfaz de Usuario](#-interfaz-de-usuario)
-- [🏢 Información Comercial](#-información-comercial)
-- [🤝 Contribución](#-contribución)
 
 ---
 
